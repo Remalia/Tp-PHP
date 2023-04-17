@@ -1,0 +1,13 @@
+.articleIndex {
+    text-align: justify;
+    text-justify: inter-word;
+    transition-duration: 0.5s;
+    margin-bottom: 6vh;
+    padding: 1vw;
+    box-shadow: 0.8vw 0.8vw 1.5vw #888888;
+}
+.articleIndex:hover {
+    margin-bottom: 4vh;
+    cursor: pointer;
+    box-shadow: 0.8vw 0.8vw 2vw #888888;
+}
